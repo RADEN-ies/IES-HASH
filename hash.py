@@ -48,19 +48,17 @@ def beta():
 
 print ((26 * '\033[1;32m-'))
 print """
-(  HASH PASWW0RD CRACKER )
-       o
-        o   ^__^
-         o  (oo)\_______
-            (__)\       )\/\ 
-                ||----w |
-                ||     ||
- 
-[   HASH PASSW0RD CRACKER    ]
-[ Dev ; National Security    ]
-[ Dev ; Muslim Security      ]
+    _______________       __  _____   _____
+   /  _/ ____/ ___/      / / / /   | / ___/
+   / // __/  \__ \______/ /_/ / /| | \__ \ 
+ _/ // /___ ___/ /_____/ __  / ___ |___/ / 
+/___/_____//____/     /_/ /_/_/  |_/____/  
+                                           
+[+]        IES HASH CRACKER       [+]
+[+] author : National Security    [+]
+[+] team   : Muslim Security      [+]
 
-v 1.0.1
+v 1.0
 
 """
 
